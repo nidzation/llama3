@@ -1,3 +1,4 @@
+#file: noinspection InvalidFileLocation
 image: atlassian/default-image:4
 
 pipelines:
