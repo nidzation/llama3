@@ -3,7 +3,7 @@
 
 from typing import List
 
-import fire
+import fire # type: ignore
 
 from llama import Llama
 
