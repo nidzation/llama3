@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="https://github.com/nidzation/llama3.git" persistUploadOnCheckin="false" filePermissions="420" folderPermissions="493" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" promptOnRemoteOverwrite="CHECK_CONTENT" persistUploadOnCheckin="false" filePermissions="420" folderPermissions="493" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="https://github.com/nidzation/llama3.git">
         <serverdata>
